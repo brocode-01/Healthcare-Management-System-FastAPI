@@ -44,8 +44,8 @@ A modern microservices-based healthcare management system built with **FastAPI**
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/devalentineomonya/Health-Care-Management-System-Python-FastAPI.git
-   cd Health-Care-Management-System-Python-FastAPI
+   git clone https://github.com/brocode-01/Healthcare-Management-System-FastAPI.git
+   cd Health-Care-Management-System-FastAPI
    ```
 2. Create `.env` file:
    ```env
