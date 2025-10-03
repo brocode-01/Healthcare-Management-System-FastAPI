@@ -4,7 +4,6 @@
 
 A modern microservices-based healthcare management system built with **FastAPI**, featuring secure patient data management, appointment scheduling, and real-time notifications. Designed for clinics and hospitals to streamline operations while maintaining HIPAA compliance standards.
 
-![System Architecture Diagram](/path/to/architecture.png) <!-- Add actual diagram path -->
 
 ## ✨ Key Features
 
@@ -67,7 +66,6 @@ A modern microservices-based healthcare management system built with **FastAPI**
 - **Interactive Swagger UI**: `http://localhost:8000/docs`
 - **ReDoc**: `http://localhost:8000/redoc`
 
-![API Docs Screenshot](/path/to/swagger-screenshot.png) <!-- Add screenshot -->
 
 ## 🗄 Database Schema
 
